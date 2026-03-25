@@ -30,13 +30,13 @@ A web application written in Go for creating, storing, and viewing text snippets
 ### Prerequisites
 
 - Go (>= 1.20)
-- PostgreSQL
+- MySQL
 
 ### Setup
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/snippetbox.git
+   git clone https://github.com/redwing96399/snippetbox.git
    cd snippetbox
    ```
 2. Set up the Database:
